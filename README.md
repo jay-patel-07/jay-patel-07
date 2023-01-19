@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jay-patel-07
 - 👀 I’m interested in Algorithms, Data Structures, and Artificial Intelligence.
-- 🌱 I’m currently pursuing Master of Computer Science at the University of Ottawa, Ontario, Canada.
+- 🌱 I’m currently pursuing a Master of Computer Science at the University of Ottawa, Ontario, Canada.
 - 📫 Email me at jayunaliya@gmail.com for any queries related to my projects.
 
 <!---
